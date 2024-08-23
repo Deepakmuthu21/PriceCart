@@ -1,0 +1,1 @@
+This is Simple React Price Card task 
